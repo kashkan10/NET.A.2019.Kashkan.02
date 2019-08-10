@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day2Tasks\FindNthRoot\bin\Debug\FindNthRoot.dll
+C:\Users\Tanya\source\repos\Day2Tasks\FindNthRoot\bin\Debug\FindNthRoot.pdb
+C:\Users\Tanya\source\repos\Day2Tasks\FindNthRoot\obj\Debug\FindNthRoot.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day2Tasks\FindNthRoot\obj\Debug\FindNthRoot.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day2Tasks\FindNthRoot\obj\Debug\FindNthRoot.dll
+C:\Users\Tanya\source\repos\Day2Tasks\FindNthRoot\obj\Debug\FindNthRoot.pdb

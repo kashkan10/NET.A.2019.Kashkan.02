@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day2Tasks\InsertNumber\bin\Debug\InsertNumber.dll
+C:\Users\Tanya\source\repos\Day2Tasks\InsertNumber\bin\Debug\InsertNumber.pdb
+C:\Users\Tanya\source\repos\Day2Tasks\InsertNumber\obj\Debug\InsertNumber.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day2Tasks\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day2Tasks\InsertNumber\obj\Debug\InsertNumber.dll
+C:\Users\Tanya\source\repos\Day2Tasks\InsertNumber\obj\Debug\InsertNumber.pdb

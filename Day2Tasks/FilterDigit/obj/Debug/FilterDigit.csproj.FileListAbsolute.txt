@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day2Tasks\FilterDigit\bin\Debug\FilterDigit.dll
+C:\Users\Tanya\source\repos\Day2Tasks\FilterDigit\bin\Debug\FilterDigit.pdb
+C:\Users\Tanya\source\repos\Day2Tasks\FilterDigit\obj\Debug\FilterDigit.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day2Tasks\FilterDigit\obj\Debug\FilterDigit.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day2Tasks\FilterDigit\obj\Debug\FilterDigit.dll
+C:\Users\Tanya\source\repos\Day2Tasks\FilterDigit\obj\Debug\FilterDigit.pdb

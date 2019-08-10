@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\obj\Debug\Day2Tasks.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\obj\Debug\Day2Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\bin\Debug\Day2Tasks.dll.config
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\bin\Debug\Day2Tasks.dll
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\bin\Debug\Day2Tasks.pdb
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\obj\Debug\Day2Tasks.dll
+C:\Users\Tanya\source\repos\Day2Tasks\Day2Tasks\obj\Debug\Day2Tasks.pdb
