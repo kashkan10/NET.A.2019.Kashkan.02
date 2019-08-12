@@ -81,7 +81,7 @@ namespace FindNextBiggerNumber
 
             number = string.Empty;
 
-            foreach (long k in array)
+            foreach (int k in array)
             {
                 number += k.ToString();
             }

@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5843,17 +5843,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\FilterDigit\\FilterDigit.csproj": {
-              "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\FilterDigit\\FilterDigit.csproj"
+            "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\FilterDigit\\FilterDigit.csproj": {
+              "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\FilterDigit\\FilterDigit.csproj"
             },
-            "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\FindNextBiggerNumber\\FindNextBiggerNumber.csproj": {
-              "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\FindNextBiggerNumber\\FindNextBiggerNumber.csproj"
+            "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\FindNextBiggerNumber\\FindNextBiggerNumber.csproj": {
+              "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\FindNextBiggerNumber\\FindNextBiggerNumber.csproj"
             },
-            "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\FindNthRoot\\FindNthRoot.csproj": {
-              "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\FindNthRoot\\FindNthRoot.csproj"
+            "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\FindNthRoot\\FindNthRoot.csproj": {
+              "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\FindNthRoot\\FindNthRoot.csproj"
             },
-            "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\InsertNumber\\InsertNumber.csproj": {
-              "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day2Tasks\\InsertNumber\\InsertNumber.csproj"
+            "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\InsertNumber\\InsertNumber.csproj": {
+              "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.02\\Day2Tasks\\InsertNumber\\InsertNumber.csproj"
             }
           }
         }
