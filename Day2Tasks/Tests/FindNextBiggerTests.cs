@@ -1,12 +1,13 @@
 ﻿using NUnit.Framework;
 using FindNextBiggerNumber;
+using System;
 
 namespace Tests
 {
     public class FindNextBiggerTests
     {
         [Test]
-        public void Test1()
+        public void FindNextBiggerNumber_Positive_Test()
         {
             Assert.AreEqual(NextBigger.FindNextBiggerNumber(12), 21);
             Assert.AreEqual(NextBigger.FindNextBiggerNumber(513), 531);
@@ -19,10 +20,11 @@ namespace Tests
         }
 
         [Test]
-        public void Test2()
+        public void FindNextBiggerNumber_Negative_Test()
         {
             Assert.AreEqual(NextBigger.FindNextBiggerNumber(10), -1);
             Assert.AreEqual(NextBigger.FindNextBiggerNumber(20), -1);
+            Assert.Throws<ArgumentException>(() => NextBigger.FindNextBiggerNumber(-1));
         }
 
     }

@@ -6,18 +6,18 @@ namespace Tests
 {
     public class FilterDigitTests
     {
-        List<int> list = new List<int> { 345, 234, 1, 34, 5, 8, 45, 6 };
-
         [Test]
-        public void Test1()
+        public void FilterDigit_Positive_Test()
         {
-            list = FilterDg.FilterDigit(list,5);
+            List<int> list = new List<int> { 345, 234, 1, 34, 5, 8, 45, 6 };
+            list = FilterDg.FilterDigit(list, 5);
             Assert.AreEqual(new List<int> {345, 5, 45}, list);
         }
 
         [Test]
-        public void Test2()
+        public void FilterDigit_Negative_Test()
         {
+            List<int> list = new List<int> { 345, 234, 1, 34, 5, 8, 45, 6 };
             list = FilterDg.FilterDigit(list, 6);
             Assert.AreNotEqual(new List<int> {345, 1, 6}, list);
         }

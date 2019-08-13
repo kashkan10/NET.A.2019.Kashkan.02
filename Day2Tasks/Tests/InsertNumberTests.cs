@@ -6,7 +6,7 @@ namespace Tests
     class InsertNumberTests
     {
         [Test]
-        public void Test1()
+        public void InsertNumber_Test()
         {
             Assert.AreEqual(NumInsert.InsertNumber(15, 15, 0, 0), 15);
             Assert.AreEqual(NumInsert.InsertNumber(8, 15, 0, 0), 9);

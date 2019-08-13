@@ -4,3 +4,9 @@ C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBig
 C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csproj.CoreCompileInputs.cache
 C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
 C:\Users\Tanya\source\repos\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.02\Day2Tasks\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.02\Day2Tasks\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.02\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.02\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.02\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.02\Day2Tasks\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
